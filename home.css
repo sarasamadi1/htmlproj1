@@ -1,0 +1,24 @@
+img{width:5vw; padding:50 em;}
+h4{color: darkslategray; text-align: center; font-weight: bold;}
+a{color: white; text-align:end; }
+a#programming:hover{background-color:orange;}
+a#repair:hover{background-color:orange;}
+a#cleaning:hover{background-color:orange;}
+img#bag{width:2.2vw; align: left; float:left;}
+body{border: 1px;width:90vw; margin: auto;}
+h5{ text-align: end; }
+div{background-color: darkseagreen; border-radius: 1em; padding:2em;}
+div#div1{background-color: darkslategray; border-radius: 0em; padding-bottom: 1em;}
+div p input{width:40vw; height:2.5em; margin: auto; border-radius: 0.4em;}
+div p button{color:darkslategray; background-color: darkseagreen; border-radius: 0.3em; height:2.2em;}
+div p{text-align: center;}
+div#div1 h5 a#login{padding:0.5em; border: 1px solid white;}
+div#div1 h5 a#programming{padding:0.5em;}
+div#div1 h5 a#repair{padding:0.5 em;}
+div#div1 h5 a#cleaning{padding:0.5em;}
+div p img#mehmet{padding-right: 12em;}
+div p img#hatice{padding-right: 12em;}
+div p img#ahmet{padding-right: 12em;}
+div pre{ color: darkslategray; font-weight: bold;}
+div pre#job{color: gray;}
+div pre#price{color:black;}
